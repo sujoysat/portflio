@@ -1,0 +1,56 @@
+
+.self{
+    border-radius: 100%;
+}
+.edu-details{
+    text-align: left;
+    font-family: 'Montserrat';
+}
+#testimonial-carousel{
+    font-family: 'Montserrat';
+    text-align: left;
+    background-color: #9DF3C4;
+    padding: 7% 15%;
+}
+.intro1{
+    padding-top: 5%;
+    font-family: 'Montserrat';
+}
+.top{
+    padding: 7% 20%;
+    background-color: #1FAB89;
+}
+.mid{
+    background-color: #62D2A2;
+    padding: 7% 20%;
+}
+
+.edu{
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+.dev-img{
+    width: 35%;
+    float: left;
+}
+.quiz-img{
+    width: 50%;
+    float: right;
+    padding-left: 2%;
+}
+.contact-me{
+    text-align: center;
+    padding: 7% 15% 3% 15%;
+    background-color: #D7FBE8;
+}
+
+.footer-link{
+    color: green ;
+    font-family: 'Calibri';
+}
+.ico{
+    padding:2px;
+}
+.ico:hover{
+    color: darkblue;
+}
